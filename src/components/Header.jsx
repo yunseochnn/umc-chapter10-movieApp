@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../index.css";
-import LoginControl from "./LoginControl";
+
 import LoginButton from "./LoginButton";
 export default function Header() {
   return (
